@@ -22,9 +22,11 @@ This project is an AI-powered health consultation system designed to act as a vi
 
 
 ##How to use  
-go to this page-->  https://teal-tarsier-bf396e.netlify.app/
+click this link-->  https://teal-tarsier-bf396e.netlify.app/
 
+##here is some sampels  
 
+https://github.com/yug201/HEALTH_expert_AI_SYSTEM/blob/1393aa39bc949e5951a30109c72253b662f0a271/image.png
 
 ## Workflow
 
